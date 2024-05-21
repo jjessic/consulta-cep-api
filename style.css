@@ -1,0 +1,28 @@
+body {
+    background-color:aliceblue
+}
+
+.Form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Text-1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+}
+
+label {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+input {
+    height: 20px;
+    width: 250px;
+    border: 200px;
+    border-color: black;
+    border-radius: 5px;
+}
+
