@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "json": "^11.0.0",
+    "server": "^1.0.39"
+  },
+"scripts": {
+  "start": "npx json-server data/db.json"
+  }
+}
